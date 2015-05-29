@@ -1,4 +1,4 @@
-# dingroll
+# social-leaderboards
 
 ## What this is
 
